@@ -1,6 +1,3 @@
-mymud.io - 2023 traditional RPG style MUD using Evennia. Different than 
-backrooms mud for now.
-
 # Welcome to Evennia!
 
 This is your game directory, set up to let you start with
