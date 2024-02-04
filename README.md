@@ -3,7 +3,7 @@ Pathfinder Compatible MUD. As of 2024 mymud.io will provide the reference
 hosted implementation of this Evennia-based MUD. Eventually, backrooms.net's 
 mud will run off this engine.
 
-# Welcome to Evennia!
+# Welcome to PFMud!
 
 This is your game directory, set up to let you start with
 your new game right away. An overview of this directory is found here:
