@@ -1,5 +1,7 @@
-mymud.io - 2023 traditional RPG style MUD using Evennia. Different than 
-backrooms mud for now.
+PFMud intends to provide an ORC License compatible implementation of a 
+Pathfinder Compatible MUD. As of 2024 mymud.io will provide the reference 
+hosted implementation of this Evennia-based MUD. Eventually, backrooms.net's 
+mud will run off this engine.
 
 # Welcome to Evennia!
 
