@@ -5,6 +5,12 @@ mud will run off this engine.
 
 # Welcome to PFMud!
 
+Creating an ORC License and Pathfinder compatible MUD sets a lofty goal. As
+this project progresses, I will likely ask for community support. Keep checking
+back for change logs and progress reports!
+
+## PFMud is an extension of Evennia MUD Engine
+
 This is your game directory, set up to let you start with
 your new game right away. An overview of this directory is found here:
 https://github.com/evennia/evennia/wiki/Directory-Overview#the-game-directory
