@@ -1,6 +1,6 @@
 PFMud intends to provide an ORC License compatible implementation of a 
 Pathfinder Compatible MUD. As of 2024 mymud.io will provide the reference 
-hosted implementation of this Evennia-based MUD. Eventually, backrooms.net's 
+hosted implementation of this Evennia-based MUD. Eventually, [backrooms.net](https://backrooms.net)'s 
 mud will run off this engine.
 
 # Welcome to PFMud!
