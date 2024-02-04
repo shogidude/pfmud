@@ -10,8 +10,8 @@ this project progresses, I will likely ask for community support. Keep checking
 back for change logs and progress reports!
 
 Currently, my local DEV enviroment follows typical Evennia three-directory installation: 
-evennia (using evennia's current codebase), evenv (for a virtual environment), 
-and mymud (for pfmud project's code.)
+**evennia** (using evennia's current codebase), **evenv** (for a virtual environment), 
+and **mymud** (for pfmud project's code.)
 
 ## PFMud is an extension of Evennia MUD Engine
 
