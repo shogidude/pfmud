@@ -52,4 +52,6 @@ http://github.com/evennia/evennia/wiki/Tutorials.
 Evennia's documentation is here:
 https://github.com/evennia/evennia/wiki.
 
-Enjoy!
+# Upgrading to newest Evennia when developing
+
+https://www.evennia.com/docs/latest/Setup/Updating-Evennia.html
