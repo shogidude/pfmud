@@ -55,3 +55,23 @@ https://github.com/evennia/evennia/wiki.
 ## Upgrading to newest Evennia when developing
 
 https://www.evennia.com/docs/latest/Setup/Updating-Evennia.html
+
+## Reseting for failed upgrades
+
+Use the Ubuntu environment. Windows is too buggy.
+
+Delete the 'evennia' directory and the 'evenv'
+directory.
+
+<pre><code>
+git clone https://github.com/evennia/evennia.git
+python -m venv evenv
+source evenv/bin/activate
+cd evennia/
+pip install --upgrade -e .
+pip install --upgrade -e .[extra]
+
+cd ../mymud
+evennia start
+
+</code></pre>
