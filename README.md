@@ -75,3 +75,12 @@ cd ../mymud
 evennia start
 
 </code></pre>
+
+## gpt-engineer Configuration
+To use gpt-engineer to work with a 'mymud' or any evennia MUD development, you'd want
+to include 'evennia' as a library in the same environment. First get your gpt-engineer
+venv running. It might be in something like:
+
+/mnt/c/python_workspace/gpt-engineer
+
+Then pip install the evennia project in your prefered way to give it access.
